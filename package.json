@@ -1,0 +1,26 @@
+{
+  "name": "siho-media-digital-web",
+  "version": "1.0.0",
+  "description": "web sihomediadigital",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amrilazhar/siho-media-digital-web.git"
+  },
+  "keywords": [
+    "sihomediadigital"
+  ],
+  "author": "me",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/amrilazhar/siho-media-digital-web/issues"
+  },
+  "homepage": "https://github.com/amrilazhar/siho-media-digital-web#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
